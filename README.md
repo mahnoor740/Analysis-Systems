@@ -1,0 +1,1 @@
+This project is a Power Analysis System that helps in predictive maintenance of equipment by monitoring their performance and generating real-time alerts to prevent failures. It leverages data analytics and power monitoring techniques to optimize maintenance schedules and reduce downtime.
